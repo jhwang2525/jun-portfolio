@@ -2,7 +2,7 @@ import React, {useState} from 'react'
 import {FaBars, FaTimes, FaGithub, FaLinkedin} from 'react-icons/fa'
 import {HiOurlineMail, HiOutlineMail} from 'react-icons/hi'
 import {BsFillPersonLinesFill} from 'react-icons/bs'
-import Logo from '../assets/logo.png'
+import Jun from '../assets/jun.png'
 
 
 const Navbar = () => {
@@ -12,7 +12,7 @@ const Navbar = () => {
   return (
     <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#02192f] text-gray-300'>
       <div>
-        <img src={Logo} alt="Logo Image" style={{width: '50px'}}/>
+        <img src={Jun} alt="Logo Image" style={{width: '50px'}}/>
       </div>
 
       {/* menu */}
