@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/jun-portfolio/static/css/main.adabef3d.css",
+    "main.js": "/jun-portfolio/static/js/main.09336e7c.js",
+    "static/media/project.png": "/jun-portfolio/static/media/project.adb34f3c3a83f0a1ec30.png",
+    "index.html": "/jun-portfolio/index.html",
+    "main.adabef3d.css.map": "/jun-portfolio/static/css/main.adabef3d.css.map",
+    "main.09336e7c.js.map": "/jun-portfolio/static/js/main.09336e7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adabef3d.css",
+    "static/js/main.09336e7c.js"
+  ]
+}
