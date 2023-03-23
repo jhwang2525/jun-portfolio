@@ -28,3 +28,25 @@
         hsla(242, 74%, 61%, 0.8)
     )!important;
 }
+
+.gradient-bg {
+    position: relative;
+    background: #ab66a0;
+    background: linear-gradient(135deg, #ab66a0 0%, #799fca 100%);
+}
+
+.gradient-bg::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(
+        0deg,
+        #000 0%,
+        rgba(0, 0, 0, .5) 12%,
+        rgba(0, 0, 0, .1) 30%,
+        rgba(0, 0, 0, 0) 40%
+    );
+}
