@@ -50,3 +50,11 @@
         rgba(0, 0, 0, 0) 40%
     );
 }
+
+@font-face {
+    font-family: orbitron;
+    src: url(../public/Orbitron-VariableFont_wght.ttf);
+}
+.orbitron {
+    font-family: orbitron
+}
