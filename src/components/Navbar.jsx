@@ -44,7 +44,7 @@ const Navbar = () => {
         {!nav ? <FaBars /> : <FaTimes />}
       </div>
       {/* Mobile menu */}
-      <ul className={!nav ? 'hidden' : 'absolute top-0 left-0 w-full h-screen bg-[#02192f] flex flex-col justify-center items-center'}>
+      <ul className={!nav ? 'hidden' : 'absolute top-0 left-0 w-full h-screen bg-[#2E3047] flex flex-col justify-center items-center'}>
             <li className='py-6 text text-4xl'>
             <Link onClick={handleClick} to="home" smooth={true} duration={500}>
           Home
