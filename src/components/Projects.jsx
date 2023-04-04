@@ -22,12 +22,12 @@ const Projects = () => {
               Progress-bar
             </span>
             <div className='pt-8 text-center'>
-              <a href='/'>
+              <a href='https://jhwang2525.github.io/progress-steps/'>
                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                   Demo
                 </button>
               </a>
-              <a href='/'>
+              <a href='https://github.com/jhwang2525/progress-steps'>
                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                   Code
                 </button>
@@ -64,12 +64,12 @@ const Projects = () => {
     Input Form
   </span>
   <div className='pt-8 text-center'>
-    <a href='/'>
+    <a href='https://jhwang2525.github.io/input-form/'>
       <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
         Demo
       </button>
     </a>
-    <a href='/'>
+    <a href='https://github.com/jhwang2525/input-form'>
       <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
         Code
       </button>
@@ -90,7 +90,7 @@ const Projects = () => {
         Demo
       </button>
     </a>
-    <a href='/'>
+    <a href='https://github.com/jhwang2525/budget-tracker'>
       <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
         Code
       </button>
@@ -106,12 +106,12 @@ const Projects = () => {
     Split-landing page
   </span>
   <div className='pt-8 text-center'>
-    <a href='/'>
+    <a href='https://jhwang2525.github.io/split-landing-page/'>
       <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
         Demo
       </button>
     </a>
-    <a href='/'>
+    <a href='https://github.com/jhwang2525/split-landing-page'>
       <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
         Code
       </button>
@@ -127,12 +127,12 @@ const Projects = () => {
     Taskinator
   </span>
   <div className='pt-8 text-center'>
-    <a href='/'>
+    <a href='https://jhwang2525.github.io/taskinator/'>
       <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
         Demo
       </button>
     </a>
-    <a href='/'>
+    <a href='https://github.com/jhwang2525/taskinator'>
       <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
         Code
       </button>

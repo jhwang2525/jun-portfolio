@@ -16,9 +16,9 @@ const Home = () => {
         I'm eager to apply my skills and continue learning and collaboarting with experienced developers and designers
          to develop my skills further and contribute to meaningful projects.</p>
          <div>
-         <button className='text-white orbitron border-2 px-6 py-3 my-2 flex items-center hover:bg-[#3bba9c] hover:border-[#3bba9c]'>View Work <HiArrowNarrowRight className='ml-3'/>
-         <Link to="projects" smooth={true} duration={500}>
-         </Link>
+         <button className='text-white orbitron border-2 px-6 py-3 my-2 flex items-center hover:bg-[#3bba9c] hover:border-[#3bba9c]'>
+           <Link to="projects" smooth={true} duration={500}>View Work </Link>
+              <HiArrowNarrowRight className='ml-3'/>
          </button>
        </div>
       </div>
