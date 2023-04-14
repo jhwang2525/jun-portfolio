@@ -13,7 +13,7 @@ const About = () => {
             </div>
             <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
               <div className='sm:text-4xl orbitron font-bold'>
-                <p>Hi. I'm Jun nice to meet you</p>
+                <p>Hi, I'm Jun nice to meet you</p>
               </div>
               <div>
                 <p className='prompt'>I'm a front-end developer with a passion for creating beautiful and intuitive user interfaces. I recently completed the full stack web development bootcamp at UCLA.
