@@ -1,14 +1,21 @@
 {
   "files": {
-    "main.css": "/jun-portfolio/static/css/main.adabef3d.css",
-    "main.js": "/jun-portfolio/static/js/main.09336e7c.js",
-    "static/media/project.png": "/jun-portfolio/static/media/project.adb34f3c3a83f0a1ec30.png",
+    "main.css": "/jun-portfolio/static/css/main.d2608c57.css",
+    "main.js": "/jun-portfolio/static/js/main.9e59e122.js",
+    "static/media/resume.pdf": "/jun-portfolio/static/media/resume.f50aca0ac8b64c02387f.pdf",
+    "static/media/landingpage.jpeg": "/jun-portfolio/static/media/landingpage.ee7bdcd542f9a6837d7e.jpeg",
+    "static/media/tracker.jpeg": "/jun-portfolio/static/media/tracker.7f01e13fdbb4a2bffc61.jpeg",
+    "static/media/taskinator.jpeg": "/jun-portfolio/static/media/taskinator.cd52cfea7f39303e552a.jpeg",
+    "static/media/form.png": "/jun-portfolio/static/media/form.dd1a25ef0cacb3a40683.png",
+    "static/media/progress.jpeg": "/jun-portfolio/static/media/progress.99224e049781bf422877.jpeg",
+    "static/media/note.jpeg": "/jun-portfolio/static/media/note.e73e038ad25ef16e9a4a.jpeg",
+    "static/media/Orbitron-VariableFont_wght.ttf": "/jun-portfolio/static/media/Orbitron-VariableFont_wght.7228a1c750b75b23bdb4.ttf",
     "index.html": "/jun-portfolio/index.html",
-    "main.adabef3d.css.map": "/jun-portfolio/static/css/main.adabef3d.css.map",
-    "main.09336e7c.js.map": "/jun-portfolio/static/js/main.09336e7c.js.map"
+    "main.d2608c57.css.map": "/jun-portfolio/static/css/main.d2608c57.css.map",
+    "main.9e59e122.js.map": "/jun-portfolio/static/js/main.9e59e122.js.map"
   },
   "entrypoints": [
-    "static/css/main.adabef3d.css",
-    "static/js/main.09336e7c.js"
+    "static/css/main.d2608c57.css",
+    "static/js/main.9e59e122.js"
   ]
 }
