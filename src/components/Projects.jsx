@@ -5,6 +5,7 @@ import form from '../assets/form.png';
 import tracker from '../assets/tracker.jpeg';
 import taskinator from '../assets/taskinator.jpeg';
 import landingpage from '../assets/landingpage.jpeg';
+import {HiArrowNarrowRight} from 'react-icons/hi'
 
 
 const Projects = () => {
@@ -136,14 +137,24 @@ const Projects = () => {
       <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
         Code
       </button>
+      
     </a>
 
   </div>
 </div>
 </div>
       </div>
+      <br>
+      </br>
+      <div className='flex justify-center'>
+  <button className='text-white orbitron border-2 px-2 py-4 my-4 flex items-center  hover:bg-[#3bba9c] hover:border-[#3bba9c]'>
+           <a href="https://github.com/jhwang2525" >View More Work </a>
+              <HiArrowNarrowRight className='ml-4'/>
+         </button>
+         </div>
     </div>
   </div>
+  
 
   )
 }
