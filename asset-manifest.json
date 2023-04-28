@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jun-portfolio/static/css/main.d2608c57.css",
-    "main.js": "/jun-portfolio/static/js/main.9e59e122.js",
+    "main.css": "/jun-portfolio/static/css/main.912f2f00.css",
+    "main.js": "/jun-portfolio/static/js/main.a534a82b.js",
     "static/media/resume.pdf": "/jun-portfolio/static/media/resume.f50aca0ac8b64c02387f.pdf",
     "static/media/landingpage.jpeg": "/jun-portfolio/static/media/landingpage.ee7bdcd542f9a6837d7e.jpeg",
     "static/media/tracker.jpeg": "/jun-portfolio/static/media/tracker.7f01e13fdbb4a2bffc61.jpeg",
@@ -11,11 +11,11 @@
     "static/media/note.jpeg": "/jun-portfolio/static/media/note.e73e038ad25ef16e9a4a.jpeg",
     "static/media/Orbitron-VariableFont_wght.ttf": "/jun-portfolio/static/media/Orbitron-VariableFont_wght.7228a1c750b75b23bdb4.ttf",
     "index.html": "/jun-portfolio/index.html",
-    "main.d2608c57.css.map": "/jun-portfolio/static/css/main.d2608c57.css.map",
-    "main.9e59e122.js.map": "/jun-portfolio/static/js/main.9e59e122.js.map"
+    "main.912f2f00.css.map": "/jun-portfolio/static/css/main.912f2f00.css.map",
+    "main.a534a82b.js.map": "/jun-portfolio/static/js/main.a534a82b.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2608c57.css",
-    "static/js/main.9e59e122.js"
+    "static/css/main.912f2f00.css",
+    "static/js/main.a534a82b.js"
   ]
 }
