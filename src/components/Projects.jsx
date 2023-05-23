@@ -5,7 +5,9 @@ import form from '../assets/form.png';
 import tracker from '../assets/tracker.jpeg';
 import taskinator from '../assets/taskinator.jpeg';
 import landingpage from '../assets/landingpage.jpeg';
-import {HiArrowNarrowRight} from 'react-icons/hi'
+import linehop from '../assets/linehop.png';
+import fitness from '../assets/fitness.png';
+import {HiArrowNarrowRight} from 'react-icons/hi';
 
 
 const Projects = () => {
@@ -139,7 +141,6 @@ const Projects = () => {
       </button>
       
     </a>
-
   </div>
 </div>
 </div>
@@ -148,10 +149,43 @@ const Projects = () => {
       </br>
       <div className='flex justify-center'>
   <button className='text-white orbitron border-2 px-2 py-4 my-4 flex items-center  hover:bg-[#3bba9c] hover:border-[#3bba9c]'>
-           <a href="https://github.com/jhwang2525" >View More Work </a>
+           <a href="https://github.com/jhwang2525" >View More Projects </a>
               <HiArrowNarrowRight className='ml-4'/>
          </button>
          </div>
+      <div className='side-projects w-full md:h-screen text-gray-300 bg-[#2E3047]'>' 
+      <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
+            <div className='sm:text-left pb-8 pl-4'>
+                <p className='text-4xl orbitron font-bold inline border-b-4 border-[#3bba9c]'>Work</p>
+            </div>
+            <div>
+            </div>
+            </div>
+            <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
+              <div className='sm:text-4xl orbitron font-bold'>
+              <img src={linehop} alt="side-projects" style={{width: '70%'}}/>
+              </div>
+              <div>
+                <p className='prompt'>LineHop is a restaurant reservation application designed to cater to the needs of both customers and owners alike. 
+                With a strong focus on user experience, LineHop prioritizes simplicity and ease of use. The application has been developed in a straightforward manner, 
+                ensuring that even individuals who may not be familiar with operating a smartphone can utilize it effortlessly.
+                </p>
+                
+              </div>
+            </div>
+            <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
+              <div className='orbitron font-bold'>
+              <p className='prompt'>LineHop is a restaurant reservation application designed to cater to the needs of both customers and owners alike. 
+                With a strong focus on user experience, LineHop prioritizes simplicity and ease of use. The application has been developed in a straightforward manner, 
+                ensuring that even individuals who may not be familiar with operating a smartphone can utilize it effortlessly.
+                </p>
+              </div>
+              <div>
+              <img src={fitness} alt="side-projects" style={{width: '70%' }}/>
+                
+              </div>
+            </div>
+      </div>
     </div>
   </div>
   
