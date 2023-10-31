@@ -7,6 +7,8 @@ import taskinator from '../assets/taskinator.jpeg';
 import landingpage from '../assets/landingpage.jpeg';
 import linehop from '../assets/linehop.png';
 import fitness from '../assets/fitness.png';
+import afterhour from '../assets/afterhour.png';
+import chalet from '../assets/chalet.png'
 import {HiArrowNarrowRight} from 'react-icons/hi';
 
 
@@ -153,10 +155,59 @@ const Projects = () => {
               <HiArrowNarrowRight className='ml-4'/>
          </button>
          </div>
-      <div className='side-projects w-full md:h-screen text-gray-300 bg-[#2E3047]'>' 
+
+         <div className='ecommerce-projects w-full md:h-screen text-gray-300 bg-[#2E3047]'>
       <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
             <div className='sm:text-left pb-8 pl-4'>
-                <p className='text-4xl orbitron font-bold inline border-b-4 border-[#3bba9c]'>Work</p>
+                <p className='text-4xl orbitron font-bold inline border-b-4 border-[#3bba9c]'>Shopify Theme</p>
+            </div>
+            <div>
+            </div>
+            </div>
+            <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
+              <div className='sm:text-4xl orbitron font-bold'>
+              <img src={afterhour} href='https://afterhourclothing.com/collections/new-arrivals' alt="side-projects" style={{width: '100%'}}/>
+              
+<div className='opacity-0 group-hover:opacity-100'>
+  <span className='text-2xl font-bold text-white tracking-wider justify-center'>
+    View Website
+  </span>
+  <div className='pt-8 text-center'>
+  <a href='https://afterhourclothing.com/collections/new-arrivals'></a>
+  </div>
+</div>
+              </div>
+              <div>
+                <p className='prompt'>Shopify Dawn Theme Customization
+                </p>
+                <button className='text-white orbitron border-2 px-1 py-3 my-3 flex items-center  hover:bg-[#3bba9c] hover:border-[#3bba9c]'>
+           <a href="https://afterhourclothing.com/collections/new-arrivals" >View Website </a>
+              <HiArrowNarrowRight className='ml-4'/>
+         </button>
+                
+              </div>
+            </div>
+            </div>
+
+            <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
+              <div className='sm:text-4xl orbitron font-bold'>
+              <img src={chalet} href='https://afterhourclothing.com/collections/new-arrivals' alt="side-projects" style={{width: '100%'}}/>
+  </div>
+              <div>
+                <p className='prompt'>Shopify Dawn Theme Customization
+                </p>
+                <button className='text-white orbitron border-1 px-1 py-3 my-3 flex items-center  hover:bg-[#3bba9c] hover:border-[#3bba9c]'>
+           <a href="https://www.shopchaletetceci.com/" >View Website </a>
+              <HiArrowNarrowRight className='ml-4'/>
+         </button>
+              </div>
+            </div>
+      <div className='side-projects w-full md:h-screen text-gray-300 bg-[#2E3047]'>
+      <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
+            <div className='sm:text-left pb-8 pl-4'>
+              <br>
+              </br>
+                <p className='text-4xl orbitron font-bold inline border-b-4 border-[#3bba9c]'>UX Designs</p>
             </div>
             <div>
             </div>
@@ -182,11 +233,14 @@ const Projects = () => {
               </div>
               <div>
               <img src={fitness} alt="side-projects" style={{width: '70%' }}/>
-                
+              
               </div>
+              
             </div>
       </div>
+      
     </div>
+    
   </div>
   
 
